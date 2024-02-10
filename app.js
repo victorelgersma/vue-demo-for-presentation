@@ -6,4 +6,4 @@ const app = Vue.createApp({
   },
 });
 
-app.mount("#app"); // vue app controls everything inside #app div
+app.mount("#app");
